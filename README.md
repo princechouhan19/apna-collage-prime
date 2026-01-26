@@ -18,11 +18,16 @@ I am organizing my code and notes by topics as I progress through the batch.
 
 ### 🐍 Module 1: Python Fundamentals
 Building the foundation for Data Science.
-*   **[Part 1: Basics](./Python-Fundamentals/Part-1/)**
+*   **[Part 1: Basics](./Python-Fundamentals/Part-1/)** ✅
     *   Variables & Data Types
     *   Operators (Arithmetic, Assignment, Relational, Logical)
     *   Type Casting & User Input
     *   First "Hello World" program
+*   **[Part 2: Control Flow](./Python-Fundamentals/Part-2/)** 🚧
+    *   Conditional Statements (if, elif, else)
+    *   Match Case (Switch-like structure)
+    *   Loops (For, While)
+    *   Flow Control (Break, Continue)
 
 ### 📊 Module 2: Data Analysis & Visualization
 *(Coming Soon)*
